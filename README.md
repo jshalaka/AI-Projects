@@ -1,1 +1,1 @@
-# AI-Projects
+pip install simpleai
