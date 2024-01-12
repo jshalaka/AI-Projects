@@ -1,1 +1,3 @@
-# AI-Projects
+Import 
+
+pip install pgmpy
