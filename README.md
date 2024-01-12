@@ -1,1 +1,3 @@
-# AI-Projects
+import nltk
+
+[pip install nltk]
